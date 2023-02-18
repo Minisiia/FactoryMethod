@@ -1,4 +1,4 @@
-## Dedign patterns. Factory Method
+## Design patterns. Factory Method
 
 Suppose you are working on a video game that involves several types of characters, including wizards, warriors, and archers.
 Each character has a name, a health level, a damage level, and a special ability.
